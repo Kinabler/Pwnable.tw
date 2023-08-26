@@ -1,0 +1,3 @@
+power: 0xffffd194   -  0x30
+buffer[12]: <power+0x30>
+
