@@ -13,4 +13,5 @@ STT | Link |
 | 3x17  | [Link](https://github.com/Kinabler/Pwnable.tw/tree/main/3x17.tw) | 
 | Dubble Sort | [Link](https://github.com/Kinabler/Pwnable.tw/tree/main/Dubblesort.tw) |
 | Hacknote | [Link](https://github.com/Kinabler/Pwnable.tw/tree/main/hacknote.tw) |
+| Silver Bullet | [Link](https://github.com/Kinabler/Pwnable.tw/tree/main/Sliverbullet.tw) |
   </td>
