@@ -8,7 +8,7 @@
   <td>
 
 STT | Link |
-| :--------- | :-- |
+| :---------: | :-- |
 | Calc  | [Link](https://github.com/Kinabler/Pwnable.tw/edit/main/Readme.md) | 
 | 3x17  | [Link](https://github.com/Kinabler/Pwnable.tw/tree/main/3x17.tw) | 
 | Dubble Sort | [Link](https://github.com/Kinabler/Pwnable.tw/tree/main/Dubblesort.tw) |
